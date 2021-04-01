@@ -22,7 +22,7 @@ Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
 	
 # Where to find free support?
 * chat.freenode.net IRC room #OPNSense
-* Recommended chat client: HexChat
+	* HexChat (Windows, Mac, Linux)
 
 # Alternatives:
 * Netgate pfSense
