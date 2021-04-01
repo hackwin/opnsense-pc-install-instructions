@@ -1,12 +1,10 @@
 # opnsense-pc-install-instructions
 Tutorial for installing and configuring OPNSense on a PC
 
-Why choose OPNSense?
+# Why choose OPNSense?
 
-Alternatives:
-* Netgate pfSense
-* m0n0wall
-* ddwrt 
+# Recommended Hardware
+* Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
 
 1. Download OPNSense
 	1. Choose whether to download installer for USB flash drive or DVD
@@ -22,3 +20,8 @@ Alternatives:
 Where to find free support?
 * chat.freenode.net IRC room #OPNSense
 * Recommended chat client: HexChat
+
+Alternatives:
+* Netgate pfSense
+* m0n0wall
+* ddwrt 
