@@ -23,6 +23,8 @@ Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
 5. Install OS
 6. Choose WAN ethernet port
 7. Choose LAN ethernet port
+8. Configure your PC to turn itself back on after power loss
+	1. Setting may be in BIOS or a jumper on the motherboard
 	
 # Where to find free support?
 * chat.freenode.net IRC room #OPNSense
