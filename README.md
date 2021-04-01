@@ -18,7 +18,11 @@ Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
 	1. Write to USB or DVD
 		* DVD: ImgBurn (Windows)
 		* USB: balenaEtcher (Windows, Mac, Linux)
-	
+3. Connect keyboard, monitor, and power
+4. Boot from installation media
+5. Install OS
+6. Choose WAN ethernet port
+7. Choose LAN ethernet port
 	
 # Where to find free support?
 * chat.freenode.net IRC room #OPNSense
