@@ -1,9 +1,12 @@
-Tutorial for installing and configuring OPNSense on a PC
+# About
+
+This is a quick-start tutorial for installing and configuring OPNSense Linux on a x64-based computer
 
 # Why choose OPNSense?
+Free, open-source.  Alternative to Netgate pfSense.
 
 # Recommended Hardware
-* Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
+Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
 
 # Instructions
 1. Download OPNSense
