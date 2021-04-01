@@ -18,7 +18,7 @@ Fanless mini-PC: https://www.aliexpress.com/item/4000930882001.html
 	1. Write to USB or DVD
 		* DVD: ImgBurn (Windows)
 		* USB: balenaEtcher (Windows, Mac, Linux)
-3. Connect keyboard, monitor, and power
+3. Connect keyboard, monitor, power, and ethernet cable from your network
 4. Boot from installation media
 5. Install OS
 6. Choose WAN ethernet port
